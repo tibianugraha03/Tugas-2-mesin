@@ -18,4 +18,4 @@ Eksplorasi ini dibangun menggunakan beberapa *library* utama Python:
 1. Pastikan Python sudah terinstal di komputer.
 2. *Clone repository* ini ke komputer lokal:
    ```bash
-   git clone [https://github.com/username-kamu/nama-repository.git](https://github.com/username-kamu/nama-repository.git)
+   git clone [https://github.com/tibianugraha03/Tugas-2-mesin.git](https://github.com/tibianugraha03/Tugas-2-mesin.git)
