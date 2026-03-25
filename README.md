@@ -19,3 +19,12 @@ Eksplorasi ini dibangun menggunakan beberapa *library* utama Python:
 2. *Clone repository* ini ke komputer lokal:
    ```bash
    git clone [https://github.com/tibianugraha03/Tugas-2-mesin.git](https://github.com/tibianugraha03/Tugas-2-mesin.git)
+
+## Output
+hasil_penjualan
+<img width="1366" height="768" alt="Screenshot 2026-03-25 141723" src="https://github.com/user-attachments/assets/b9cbaa3c-2cc8-43ff-a368-b9882bbcb887" />
+data_asli
+<img width="1366" height="768" alt="Screenshot 2026-03-25 141739" src="https://github.com/user-attachments/assets/87c7eb46-a7c8-4719-ae95-29b54b4fe704" />
+model_regresi
+<img width="1366" height="768" alt="Screenshot 2026-03-25 141805" src="https://github.com/user-attachments/assets/e55bc424-4cb2-495a-b659-f63f0d2bbe55" />
+
